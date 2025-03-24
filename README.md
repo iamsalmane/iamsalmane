@@ -1,4 +1,4 @@
-<h1 align="center">About me</h1> <h3 align="center">I'm Salmane Aaboud, an aspiring web developer with roots in Morocco and a home in Spain. I’m dedicated to improving my skills every day, exploring new tools and technologies, and creating meaningful digital experiences. My journey is all about learning, building, and growing in the ever-evolving world of web development.</h3>
+<h1 align="center">About me</h1> <h3 align="center">I'm Salmane Aaboud, an aspiring web developer and I’m dedicated to improving my skills every day, exploring new tools and technologies, and creating meaningful digital experiences. My journey is all about learning, building, and growing in the ever-evolving world of web development.</h3>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_40saab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/salmane-aaboud-73b711315/) 
